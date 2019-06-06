@@ -4,9 +4,9 @@
 Page: main
 ### availableHotelRoomsInformation.txt
 IO: several hotel information to be search for
-## footer
+## footer.php
 Template: footer
-## header
+## header.php
 Template: header
 ### image_hotel
 Image: image
