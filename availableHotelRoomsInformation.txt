@@ -1,0 +1,40 @@
+@Hotel of Downtown
+address=123, rue St-Cathrine, Montreal
+rooms=500
+smoker=yes
+bed=0/2,2/0
+location=downtown
+price_per_room=50
+parking=0
+facilities=minibar
+
+@Hotel of Downtown (Duplicate)
+address=123, rue St-Cathrine, Montreal
+rooms=500
+smoker=yes
+bed=0/2,2/0
+location=downtown
+price_per_room=50
+parking=0
+facilities=minibar
+
+
+@Holiday Inn
+address=321, rue Jean-Cartier, Montreal
+rooms=1000
+smoker=no
+bed=0/2,2/0,1/1,0/2,1/2
+location=downtown
+price_per_room=100
+parking=4
+facilities=minibar
+
+@Expensive Inn
+address=7777, rue Jean-Cartier, Montreal
+rooms=1000
+smoker=no
+bed=0/2,2/0,1/1,0/2,1/2
+location=montreal_east
+price_per_room=99
+parking=4
+facilities=balcony
